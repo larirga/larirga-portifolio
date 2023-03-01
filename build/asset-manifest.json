@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/larirga-portifolio/static/css/main.073c9b0a.css",
+    "main.js": "/larirga-portifolio/static/js/main.8a9a58e5.js",
+    "static/js/787.7182e854.chunk.js": "/larirga-portifolio/static/js/787.7182e854.chunk.js",
+    "static/media/logo.svg": "/larirga-portifolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/larirga-portifolio/index.html",
+    "main.073c9b0a.css.map": "/larirga-portifolio/static/css/main.073c9b0a.css.map",
+    "main.8a9a58e5.js.map": "/larirga-portifolio/static/js/main.8a9a58e5.js.map",
+    "787.7182e854.chunk.js.map": "/larirga-portifolio/static/js/787.7182e854.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8a9a58e5.js"
+  ]
+}
