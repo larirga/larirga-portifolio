@@ -16,7 +16,7 @@ export default function Contact() {
       <a href="https://github.com/larirga">
         <img className='icon-contact' src={ github_image } alt="github" />
         </a>
-        <a href="https://github.com/larirga">
+        <a href="https://www.linkedin.com/in/larissa-rodrigues-122775206/">
         <img className='icon-contact' src={ linkedin_image } alt="linkedin" />
         </a>
       </div>
