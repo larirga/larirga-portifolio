@@ -37,7 +37,7 @@ export default function Projects() {
         <p>4. Project <b>Game Trunfo</b> with React.js</p>
         </a>
         <a href="https://github.com/larirga">
-        <p>5. Project <b>Recipes App</b> with Reach.js</p>
+        <p>5. Project <b>Recipes App</b> with React.js</p>
         </a>
         </div>
         </div>

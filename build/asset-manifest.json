@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/larirga-portifolio/static/css/main.36824b3c.css",
-    "main.js": "/larirga-portifolio/static/js/main.2409e2a2.js",
+    "main.css": "/larirga-portifolio/static/css/main.b62878f0.css",
+    "main.js": "/larirga-portifolio/static/js/main.29dd84f6.js",
     "static/js/787.7182e854.chunk.js": "/larirga-portifolio/static/js/787.7182e854.chunk.js",
     "static/media/home_image.gif": "/larirga-portifolio/static/media/home_image.7b1d177a26ca5df027fa.gif",
     "static/media/about_image.png": "/larirga-portifolio/static/media/about_image.e8c131723e55afd61f25.png",
     "static/media/header_image.png": "/larirga-portifolio/static/media/header_image.b2edcb3129d2210edf85.png",
     "static/media/github_image.png": "/larirga-portifolio/static/media/github_image.8a476280259408268b07.png",
     "static/media/email_image.png": "/larirga-portifolio/static/media/email_image.3d381ef68720fc1cf190.png",
+    "static/media/project_image.png": "/larirga-portifolio/static/media/project_image.6868d3179f6b4d8a46c4.png",
     "static/media/linkedin_image.png": "/larirga-portifolio/static/media/linkedin_image.7dae4bbfe9904e7749d1.png",
     "index.html": "/larirga-portifolio/index.html",
-    "main.36824b3c.css.map": "/larirga-portifolio/static/css/main.36824b3c.css.map",
-    "main.2409e2a2.js.map": "/larirga-portifolio/static/js/main.2409e2a2.js.map",
+    "main.b62878f0.css.map": "/larirga-portifolio/static/css/main.b62878f0.css.map",
+    "main.29dd84f6.js.map": "/larirga-portifolio/static/js/main.29dd84f6.js.map",
     "787.7182e854.chunk.js.map": "/larirga-portifolio/static/js/787.7182e854.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36824b3c.css",
-    "static/js/main.2409e2a2.js"
+    "static/css/main.b62878f0.css",
+    "static/js/main.29dd84f6.js"
   ]
 }
