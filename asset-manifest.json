@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/larirga-portifolio/static/css/main.073c9b0a.css",
-    "main.js": "/larirga-portifolio/static/js/main.efd8423a.js",
+    "main.css": "/larirga-portifolio/static/css/main.43c1143b.css",
+    "main.js": "/larirga-portifolio/static/js/main.e21be8de.js",
     "static/js/787.7182e854.chunk.js": "/larirga-portifolio/static/js/787.7182e854.chunk.js",
+    "static/media/home_image.png": "/larirga-portifolio/static/media/home_image.b394d439eaf75d786d49.png",
     "index.html": "/larirga-portifolio/index.html",
-    "main.073c9b0a.css.map": "/larirga-portifolio/static/css/main.073c9b0a.css.map",
-    "main.efd8423a.js.map": "/larirga-portifolio/static/js/main.efd8423a.js.map",
+    "main.43c1143b.css.map": "/larirga-portifolio/static/css/main.43c1143b.css.map",
+    "main.e21be8de.js.map": "/larirga-portifolio/static/js/main.e21be8de.js.map",
     "787.7182e854.chunk.js.map": "/larirga-portifolio/static/js/787.7182e854.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.efd8423a.js"
+    "static/css/main.43c1143b.css",
+    "static/js/main.e21be8de.js"
   ]
 }
