@@ -3,25 +3,34 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
+import header_image from './images/header_image.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <div className="header">
-      <nav>
+      <nav className="nav-header">
+        <div className="header-image">
+          <Link to="/">
+          <img className="header-image" src={ header_image } alt="computer" />
+          </Link>
+        </div>
         <ul>
-          <li>
+          {/* <li>
+          <img className="header-image" src={ header_image } alt="computer" />
+          </li> */}
+          {/* <li>
             <Link to="/">Home</Link>
+          </li> */}
+          <li>
+            <Link to="/About">about</Link>
           </li>
           <li>
-            <Link to="/About">About</Link>
+            <Link to="/Projects">projects</Link>
           </li>
           <li>
-            <Link to="/Projects">Projects</Link>
-          </li>
-          <li>
-            <Link to="/Contact">Contact</Link>
+            <Link to="/Contact">contact</Link>
           </li>
         </ul>
       </nav>
