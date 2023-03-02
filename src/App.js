@@ -60,8 +60,11 @@ function App() {
       </Switch>
       </div>
       <div>
-        <footer>
-          <p>oi</p>
+        <footer className='footer-div'>
+        <a href="https://github.com/larirga" target="_blank" rel="noopener noreferrer"><b>GitHub</b></a>
+        -
+        <a href="https://www.linkedin.com/in/larissa-rodrigues-122775206/" target="_blank" rel="noopener noreferrer"><b>Linkedin</b></a>
+          <p>Created by: Larissa </p>
         </footer>
       </div>
     </div>

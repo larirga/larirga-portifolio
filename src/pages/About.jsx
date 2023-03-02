@@ -1,5 +1,6 @@
 import React from 'react'
 import about_image from '../images/about_image.png'
+import { Link } from "react-router-dom";
 
 export default function About() {
   return (
@@ -15,7 +16,8 @@ export default function About() {
     Adoro sair, cozinhar, aprender e conversar com meus amigos e família.
     Tenho dois gatinhos lindos, o tony e a Shinji. Sou formada em Filosofia pela UFMG e 
     atualmente, estudo desenvolvimento web na Trybe. Ultimamente, tenho focado meus estudos em frontend e backend, adoro
-    mexer com react, que inclusive foi assim que fiz essa página. Para saber mais sobre minhas hardSkills acesse meu gitHub.
+    mexer com react, inclusive foi a biblioteca que usei nessa página.
+    Para saber mais sobre minhas hardSkills acesse meu <a href="https://github.com/larirga"><b>gitHub</b></a>.
     </p>
     </div>
     </div>
