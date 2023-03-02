@@ -61,7 +61,7 @@ function App() {
       </div>
       <div>
         <footer className='footer-div'>
-        <p>Created by: <a href="https://github.com/larirga" target="_blank" rel="noopener noreferrer"><b>Larissa ♡ </b></a></p>
+        <p>Created by: <a href="https://github.com/larirga" target="_blank" rel="noopener noreferrer"><b>Larissa 💜 </b></a></p>
         </footer>
       </div>
     </div>
