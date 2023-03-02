@@ -76,7 +76,24 @@ a {
 }
 
 .footer-div {
-  padding-bottom: 10px;
+  padding-bottom: 3px;
   padding-top: 10px;
   background-color: #ede0c9;
+}
+
+.icon-contact {
+  width: 100px;
+}
+
+.email-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-contact {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
