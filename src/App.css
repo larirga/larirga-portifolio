@@ -102,6 +102,26 @@ a {
   margin-bottom: 350px;
 }
 
-/* .text {
-  width: 400px;
-} */
+.project-picture {
+  width: 50px;
+}
+
+.div-project {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 200px;
+}
+
+.div-files {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: flex-start;
+  padding-right: 13px;
+}
+
+.div-name {
+  display: flex;
+  flex-direction: column;
+}
