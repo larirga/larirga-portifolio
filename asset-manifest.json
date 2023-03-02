@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/larirga-portifolio/static/css/main.b62878f0.css",
-    "main.js": "/larirga-portifolio/static/js/main.29dd84f6.js",
+    "main.js": "/larirga-portifolio/static/js/main.f6eeaf11.js",
     "static/js/787.7182e854.chunk.js": "/larirga-portifolio/static/js/787.7182e854.chunk.js",
     "static/media/home_image.gif": "/larirga-portifolio/static/media/home_image.7b1d177a26ca5df027fa.gif",
     "static/media/about_image.png": "/larirga-portifolio/static/media/about_image.e8c131723e55afd61f25.png",
@@ -12,11 +12,11 @@
     "static/media/linkedin_image.png": "/larirga-portifolio/static/media/linkedin_image.7dae4bbfe9904e7749d1.png",
     "index.html": "/larirga-portifolio/index.html",
     "main.b62878f0.css.map": "/larirga-portifolio/static/css/main.b62878f0.css.map",
-    "main.29dd84f6.js.map": "/larirga-portifolio/static/js/main.29dd84f6.js.map",
+    "main.f6eeaf11.js.map": "/larirga-portifolio/static/js/main.f6eeaf11.js.map",
     "787.7182e854.chunk.js.map": "/larirga-portifolio/static/js/787.7182e854.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b62878f0.css",
-    "static/js/main.29dd84f6.js"
+    "static/js/main.f6eeaf11.js"
   ]
 }
