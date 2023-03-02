@@ -1,5 +1,5 @@
 import React from 'react'
-import home_image from '../images/home_image.png'
+import home_image from '../images/home_image.gif'
 
 export default function Home() {
   return (
